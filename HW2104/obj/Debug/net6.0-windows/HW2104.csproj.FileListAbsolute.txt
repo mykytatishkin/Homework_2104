@@ -1,0 +1,17 @@
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.Form1.resources
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.csproj.GenerateResource.cache
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.AssemblyInfoInputs.cache
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.AssemblyInfo.cs
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\HW2104\HW2104\bin\Debug\net6.0-windows\HW2104.exe
+C:\Users\Mykyta\source\repos\HW2104\HW2104\bin\Debug\net6.0-windows\HW2104.deps.json
+C:\Users\Mykyta\source\repos\HW2104\HW2104\bin\Debug\net6.0-windows\HW2104.runtimeconfig.json
+C:\Users\Mykyta\source\repos\HW2104\HW2104\bin\Debug\net6.0-windows\HW2104.dll
+C:\Users\Mykyta\source\repos\HW2104\HW2104\bin\Debug\net6.0-windows\HW2104.pdb
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.dll
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\refint\HW2104.dll
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.pdb
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\HW2104.genruntimeconfig.cache
+C:\Users\Mykyta\source\repos\HW2104\HW2104\obj\Debug\net6.0-windows\ref\HW2104.dll
